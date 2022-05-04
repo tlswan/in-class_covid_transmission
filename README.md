@@ -10,4 +10,5 @@ The file pseudo_schedules.csv contains generated data for 10,000 artificial stud
 
 The file "classroom_risk_simulation.py" is the primary script for running the simulation to estimate infections, hospitalizations, and deaths with all other .py files including functions that are used in the primary script. The primary script also contains a function for parallelizing the simulation. See simulation process diagram below for all steps included in the simulation model.
 
-![simulation_diagram](https://user-images.githubusercontent.com/43580228/166741497-b09b84b3-6ec3-42b0-951d-10964ea1fb62.png)
+
+![Fig1](https://user-images.githubusercontent.com/43580228/166741984-05131385-c604-48a6-9087-6322f142236e.jpg)
